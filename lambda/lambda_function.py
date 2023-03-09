@@ -5,5 +5,5 @@ def lambda_handler(event, context):
     # 第2次修改
     return {
         'statusCode': 200,
-        'body': json.dumps('Hello from Github2!')
+        'body': json.dumps('Hello from Github3!')
     }
